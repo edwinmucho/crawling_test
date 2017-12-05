@@ -1,0 +1,6 @@
+
+<%= form_tag(crawl_url_posts_path, method: "get") do %>
+  <%= label_tag(:src_url, "URL : ") %>
+  <%= text_field_tag(:src_url) %>
+  <%= submit_tag("OK") %>
+<% end %>
