@@ -5,6 +5,7 @@ gem 'rest-client'
 gem 'httparty'
 gem 'rails_db'
 gem 'twkorean'
+gem 'twitter-korean-text-ruby'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
